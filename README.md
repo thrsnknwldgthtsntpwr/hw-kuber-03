@@ -31,6 +31,7 @@
 5. Создать отдельный Pod с приложением multitool и убедиться с помощью `curl`, что из пода есть доступ до приложений из п.1.
 
 ![before-after](img/img-1.png)
+![multitool-curl](img/img-2.png)
 
 ------
 
